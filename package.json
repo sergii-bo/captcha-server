@@ -19,7 +19,8 @@
   "homepage": "https://github.com/sergii-bo/captcha-server#readme",
   "dependencies": {
     "express": "^4.17.3",
-    "svg-captcha": "^1.4.0"
+    "svg-captcha": "^1.4.0",
+    "trek-captcha": "^0.4.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
