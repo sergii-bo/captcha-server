@@ -1,0 +1,27 @@
+{
+  "name": "captcha-server",
+  "version": "0.0.1",
+  "description": "captcha server",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergii-bo/captcha-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergii-bo/captcha-server/issues"
+  },
+  "homepage": "https://github.com/sergii-bo/captcha-server#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "svg-captcha": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
